@@ -8,6 +8,7 @@ v6 master
 
 v7 stash
 GitHub'dan sevgilerle...
+v8 kodlari
 
 
 
